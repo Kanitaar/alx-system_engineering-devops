@@ -1,1 +1,1 @@
-basic shell
+shell basic
